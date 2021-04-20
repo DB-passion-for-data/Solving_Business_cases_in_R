@@ -1,5 +1,5 @@
 # Solving_Business_cases_in_R
-<img src = "https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif" width = 1200 height = 500></img>
+<img src = "https://medicaldevicesmarketinsights.files.wordpress.com/2020/03/pp-1.gif" width = 1200 height = 500></img>
 
 This repo provides several business use cases that is solved using statistics in R.
 
